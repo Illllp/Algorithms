@@ -21,7 +21,7 @@ class Node:
 
         for i in range(len(bin)):
 
-            num = int(bin[i], 2)  # We point the program to the binary system
+            num = int(bin[i], 2)  # We point the program to the binary
             hex_num = format(num, 'x')  # Specify the translation format
             bin[i] = hex_num  # Output the hexadecimal system alternately
 
