@@ -5,7 +5,7 @@
 # conversion from binary to hexadecimal
 
 
-a = ['10000', '11001', '100']
+a = ['10000', '11001', '1111']
 
 # An important class for specifying the beginning and end
 
